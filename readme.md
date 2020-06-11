@@ -12,7 +12,7 @@ Being able to discover similar clinical studies is critical for therapeutic prod
     - ReLu activation and parameter regularization
     - Mini-batch gradient descent algorithm
     
-- Model Training and Testing
+- Model Training Validation, and Test
     - Learning rate search
     - Hyperparamter grid search
     - Model performance metrics: mean squared errors and average precision at top K
